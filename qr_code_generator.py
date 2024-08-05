@@ -1,6 +1,3 @@
-# to use this, please install the qrcode library
-# pip install qrcode[pil]
-
 import qrcode
 
 def generate_qr_code(link, filename):
